@@ -1,0 +1,14 @@
+{
+    "name": "kp_denis.ortiz/app_etl",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis Cury"
+        }
+    ],
+    "require": {}
+}
