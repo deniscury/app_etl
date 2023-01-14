@@ -26,6 +26,10 @@
                 $arquivo->lerArquivoTXT();
             }
 
+            if($extensao[1] == "xlsx"){
+                $arquivo->lerArquivoXLSX();
+            }
+
             return $arquivo->getDados();
         }
 

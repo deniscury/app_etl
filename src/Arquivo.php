@@ -30,6 +30,10 @@
             fclose($handle);
         }
 
+        public function lerArquivoXLSX(){
+            // Ler XLSX
+        }
+
 
         /**
          * Get the value of arquivo
